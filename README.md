@@ -8,7 +8,7 @@ Flutter ile geliştirilmiş, **TOPIK (Test of Proficiency in Korean)** sınavın
 
 Uygulamanın hazır derlenmiş Android kurulum dosyasını doğrudan indirip telefonunuza kurabilirsiniz:
 
-👉 **[📥 Android APK İndir (topik_korece.apk)](./apk/topik_korece.apk)**
+👉 **[📥 Android APK İndir (v1.0.0)](https://github.com/ayberkkr/topik-uygulama/releases/download/v1.0.0/topik_korece.apk)** *(Alternatif: [Depo İçi Dosya](./apk/topik_korece.apk))*
 
 ### Kurulum Adımları (Android):
 1. Yukarıdaki bağlantıdan `topik_korece.apk` dosyasını telefonunuza indirin.
